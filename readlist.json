@@ -1,8 +1,4 @@
 {
 	"name":  "test"
-	"checklist": [
-		"test1",
-		"test2",
-		"test3"
-	]
+	"checklist": [ "test1", "test2", "test3" ]
 }
